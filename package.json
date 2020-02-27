@@ -1,0 +1,13 @@
+{
+    "name": "WeaponizerYT",
+    "version": "1.0.0",
+    "description": "i am here for help Weaponizer",
+    "main": "WeaponizerYT.js",
+    "author": "pushprajj",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
